@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ##  About 🙋🏻‍♂️
 
-I'm a 18-year-old boy, recently approved in college. I like to work with Python, C#, AI, JS and trying to learn as max as I can.
+I'm a 18-year-old boy, industrial automation technician, recently approved in college. I like to work with Python, C#, AI, JS and trying to learn as max as I can.
 
 - 👾 Skills:
   - Python
