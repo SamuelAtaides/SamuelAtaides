@@ -29,4 +29,4 @@ I'm a 18-year-old boy, industrial automation technician, recently approved in co
 ## Contact 📞
 - Email: sam.ataides28@gmail.com
 - Mobile: +55 62 9 9634-6087 ([WhatsApp](https://api.whatsapp.com/send?phone=5562996346087))
-- Linkedin: (https://www.linkedin.com/in/SamuelAtaides/)
+- Linkedin: ([in/SamuelAtaides](https://www.linkedin.com/in/SamuelAtaides/))
