@@ -25,6 +25,10 @@ I'm a 18-year-old boy, industrial automation technician, recently approved in co
   - C#
   - Visual Basic .net
   - JavaScript
+  - PHP
+  - AngularJS
+  - Angular 2+
+  - SQL
 
 ## Contact 📞
 - Email: sam.ataides28@gmail.com
